@@ -1,5 +1,3 @@
-# file_handling_assignment.py
-
 # Task 1: File Creation
 def create_file():
     try:
